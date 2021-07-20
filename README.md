@@ -1,4 +1,4 @@
-# deepakperla.offl
+
 <h1 align="center">Hi 👋, I'm Deepak Perla</h1>
 <h3 align="center">Love Peace ̶ W̶a̶r Code</h3>
 
