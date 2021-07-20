@@ -1,6 +1,6 @@
 # deepakperla.offl
 <h1 align="center">Hi 👋, I'm Deepak Perla</h1>
-<h3 align="center">Love Peace W̶a̶r̶ Code</h3>
+<h3 align="center">Love Peace ̶ W̶a̶r Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-perla&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-perla" /> </p>
 
