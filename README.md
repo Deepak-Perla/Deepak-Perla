@@ -1,4 +1,4 @@
-<h1 align="center">Hi✌, I'm 𝙳𝚎𝚎𝚙𝚊𝚔 𝙿𝚎𝚛𝚕𝚊</h1>
+<h1 align="center">Hi✌, I'm <𝙳𝚎𝚎𝚙𝚊𝚔 𝙿𝚎𝚛𝚕𝚊></h1>
 <h3 align="center">Love Peace War ᴄᴏᴅᴇ </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepak-Perla](https://github.com/Deepak-Perla)
