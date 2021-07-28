@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak-Perla&theme=dark&show_icons=true" alt="deepak-perla" /></p>
 
-![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=Currently+Watching)
+![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=👀Watching)
