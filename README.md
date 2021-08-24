@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/thedheepakk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="thedheepakk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/deepak-perla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="deepak perla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepak0000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak0000" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Deep_Py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="deepak0000" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@p.manideepak.19cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@p.manideepak.19cse" height="30" width="40" /></a>
 </p>
 
