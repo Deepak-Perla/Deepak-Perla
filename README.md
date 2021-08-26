@@ -1,4 +1,4 @@
-<h1 align="center">Hi✌, I'm <Dᴇᴇᴘᴀᴋ Pᴇʀʟᴀ></h1>
+<h1 align="center">Hi✌, I'm <ᴰᵉᵉᵖᵃᵏ ᴾᵉʳˡᵃ></h1>
 <h3 align="center">Love🤍 Peace☮ Code👨‍💻 </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepak-Perla](https://github.com/Deepak-Perla)
