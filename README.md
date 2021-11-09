@@ -34,7 +34,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
   
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Perla&langs_count=8&theme=dark&show_icons=true" alt="deepak-perla" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak-Perla&theme=dark&show_icons=true" alt="deepak-perla" /></p>
-
+<br>
+  
 ![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=👀👀👀)
