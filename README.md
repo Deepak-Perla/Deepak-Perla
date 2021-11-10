@@ -17,6 +17,8 @@
 <a href="https://www.linkedin.com/in/deepak-perla/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepak perla" height="30"/></a>
 <a href="https://www.hackerrank.com/Deep_Py" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="deepak0000" height="30"/></a>
 <a href="https://www.hackerearth.com/@p.manideepak.19cse" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@p.manideepak.19cse" height="30"  /></a>
+<a href="https://dev.to/deepakperla" target="blank"><img align="center" src="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="deepakperla" height="30"  /></a>
+<a href="https://medium.com/@p.manideepak.19cse" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="@p.manideepak.19cse" height="30"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,5 +46,6 @@
   
   ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Deepak-Perla&no-bg=true)
-   
+  
+  ### Viewers
 ![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=👀👀👀)
