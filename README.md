@@ -1,3 +1,6 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
+
+
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> <ᴅᴇᴇᴘᴀᴋ ᴘᴇʀʟᴀ></h1>
 <h3 align="center">Love🤍 Peace☮ Code👨‍💻 </h3>
   
