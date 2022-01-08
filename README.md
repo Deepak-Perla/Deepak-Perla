@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm ᴅᴇᴇᴘᴀᴋ ᴘᴇʀʟᴀ</h1>
 <h3 align="center">Love🤍 Peace☮ Code👨‍💻 </h3>
   
-- 🗣️ I’m currently working on Audio Analysis produced by machines ⚙.
+-  ⚙ I’m currently working on Audio Analysis produced by machines.
  
 - 🌱 I’m currently learning core DSA & DAA Topics in Java.
    
