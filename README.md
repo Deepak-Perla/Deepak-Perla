@@ -4,13 +4,13 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm ᴅᴇᴇᴘᴀᴋ ᴘᴇʀʟᴀ</h1>
 <h3 align="center">Love🤍 Peace☮ Code👨‍💻 </h3>
   
-- 🗣️ I’m currently working on Speech Recognition.
-  
+- 🗣️ I’m currently working on Audio Analysis produced by machines ⚙.
+ 
 - 🌱 I’m currently learning core DSA & DAA Topics in Java.
    
 - 🤔 I’m looking for internships and working as DevOps Associate at [The Enterprenuership Network](https://www.linkedin.com/company/the-entrepreneurship-network/mycompany/)
 
-- 👨‍💻 All of my projects are available at [Just click me](https://github.com/Deepak-Perla)
+- 👨‍💻 All of my projects are available at [on repos tab](https://github.com/Deepak-Perla)
 
 - 📫 How to reach me **deepakperla.offl@gmail.com**
 
