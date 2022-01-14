@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning core DSA & DAA Topics in Java.
    
-- 🤔 I’m looking for internships and working as DevOps Associate at [The Enterprenuership Network](https://www.linkedin.com/company/the-entrepreneurship-network/mycompany/)
+- 🤔 I’m looking for work which profits both Company and Me. 
 
 - 👨‍💻 All of my projects are available at [on repos tab](https://github.com/Deepak-Perla)
 
