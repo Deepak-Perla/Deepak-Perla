@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning core DSA & DAA Topics in Java.
    
-- 🤔 I’m looking for work which profits both Company and Me. 
+- 🤔 Ask me about NFT, Blockchain and related stuff. 
 
 - 👨‍💻 All of my projects are available at [on repos tab](https://github.com/Deepak-Perla)
 
