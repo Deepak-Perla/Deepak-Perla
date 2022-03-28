@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **deepakperla.offl@gmail.com**
 
+- 🌐 And also check this out: https://hiredeepak.blogspot.com/ 
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thedheepakk" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="thedheepakk" height="30"/></a>
