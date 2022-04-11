@@ -1,7 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient)
 
-
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm ᴅᴇᴇᴘᴀᴋ ᴘᴇʀʟᴀ(DEX)</h1>
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif?cid=ecf05e4799zwhbbjh1boutx254sz11ecyef9kkuxvytbujyx&rid=giphy.gif&ct=g" width="290"/>
+</div>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm ᴅᴇᴇᴘᴀᴋ ᴘᴇʀʟᴀ</h1>
 <h3 align="center">Love🤍 Peace☮ Code👨‍💻 </h3>
   
 -  ⚙ I’m currently working on Audio Analysis produced by machines.
