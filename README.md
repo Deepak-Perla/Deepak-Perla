@@ -1,7 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif?cid=ecf05e4799zwhbbjh1boutx254sz11ecyef9kkuxvytbujyx&rid=giphy.gif&ct=g" width="290"/>
+  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47i892l9jkds92tmkadmkle1pik9akxetofhuzo2os&rid=giphy.gif&ct=g" width="290"/>
+ 
 </div>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm ᴅᴇᴇᴘᴀᴋ ᴘᴇʀʟᴀ</h1>
 <h3 align="center">Love🤍 Peace☮ Code👨‍💻 </h3>
@@ -10,7 +11,7 @@
  
 - 🌱 I’m currently learning core DSA & DAA Topics in Java.
    
-- 🤔 Ask me about NFT, Blockchain and related stuff. 
+- 🤔 Ask me about NFT, Blockchain and related stuff. Even I will learn with you
 
 - 👨‍💻 All of my projects are available at ["check repository tab"](https://github.com/Deepak-Perla)
 
