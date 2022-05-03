@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="270"/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
 
 </div>
 <h1 align="center" >Hi, I'm <a href="https://hiredeepak.blogspot.com/" target="_blank"> Deepak Perla </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="28px"></h1>
@@ -28,14 +28,12 @@ I am a focused and highly committed individual who strives for greatness in exis
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 
-   I intend to put your vision into action. Tasks are important for demonstrating the abilities. They aid in forecasting a person's abilities . . .❤️
+   I intend to put your vision into action. Tasks are important for demonstrating the abilities. They aid in forecasting a person's abilities <br>❤️ ☮ 👨‍💻
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
