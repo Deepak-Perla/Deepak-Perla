@@ -83,7 +83,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Perla&theme=blueberry_duo&hide_border=true&date_format=%5BY.%5Dn.j" alt="Deepak-Perla" /></p>
   </div>
 
- [![Deepak-Perla's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Deepak-Perla&date_format=M%20j%5B%2C%20Y%5D&theme=xcode)]
+ [![Deepak-Perla's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Deepak-Perla&date_format=M%20j%5B%2C%20Y%5D&theme=xcode&hide_border=true)]
    
    
 
