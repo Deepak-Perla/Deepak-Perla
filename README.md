@@ -33,7 +33,8 @@ I am a focused and highly committed individual who strives for greatness in exis
 </p>
 
 
-   I intend to put your vision into action. Tasks are important for demonstrating the abilities. They aid in forecasting a person's abilities <br>❤️ ☮ 👨‍💻
+   I intend to put your vision into action. Tasks are important for demonstrating the abilities. They aid in forecasting a person's abilities.
+  
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
