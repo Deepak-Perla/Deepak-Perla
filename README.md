@@ -3,7 +3,19 @@
 
 </div>
 <h1 align="center" >Hi, I'm <a href="https://hiredeepak.blogspot.com/" target="_blank"> Deepak Perla </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="28px"></h1>
-<img width="32%" align="right"   src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
+<img width="40%" align="right"   src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
+
+-  ⚙ I’m currently working as SDE Intern @Neonflake Enterprises (OPC) Pvt Ltd.
+
+- 🌱 I’m currently learning DSA & DAA Topics in Java.
+
+- 🤔 Ask me about NFT, Blockchain and related stuff. Even I will learn with you.
+
+- 👨‍💻 All of my projects are available at [check repository tab](https://github.com/Deepak-Perla)
+
+- 📫 How to reach me **deepakperla.offl@gmail.com**
+
+- 🌐 And also check this out: https://hiredeepak.blogspot.com/
 
 I am a focused and highly committed individual who strives for greatness in existence. I trust in Continuous Training and Development. Spent quality time studying and applying some fantastic tools and technologies. Where I can educate, progress, discover, and increase my abilities while also excelling as part of a fantastic team.
 
