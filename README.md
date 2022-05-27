@@ -5,7 +5,7 @@
 <h1 align="center" >Hi, I'm <a href="https://hiredeepak.blogspot.com/" target="_blank"> Deepak Perla </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="28px"></h1>
 <img width="40%" align="right"   src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
 
--  ⚙ I’m currently working as SDE Intern @Neonflake Enterprises (OPC) Pvt Ltd.
+-  ⚙ I’m currently looking for freelancing works or part-time internships.
 
 - 🌱 I’m currently learning DSA & DAA Topics in Java.
 
