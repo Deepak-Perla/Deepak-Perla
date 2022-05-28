@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning DSA & DAA Topics in Java.
 
-- 🤔 Ask me about NFT, Blockchain and related stuff. Even I will learn with you.
+- 🤔 Ask me about Web 3.0. Even I will learn with you.
 
-- 👨‍💻 All of my projects are available at [check repository tab](https://github.com/Deepak-Perla)
+- 👨‍💻 All of my projects are available at [--click me](https://github.com/Deepak-Perla)
 
 - 📫 How to reach me **deepakperla.offl@gmail.com**
 
