@@ -79,4 +79,5 @@ I am a focused and highly committed individual who strives for greatness in exis
 <img src="https://github-contribution-graph.ez4o.com/?username=Deepak-Perla&last_n_days=150&img_url=https://64.media.tumblr.com/47a108fe9ec36e8c2d7e65727dc1a886/tumblr_o0sinpZfX71v1wfzlo1_500.gifv">   
 
 [![GitHub followers](https://img.shields.io/github/followers/Deepak-Perla.svg?style=social&label=Follow)](https://github.com/Deepak-Perla?tab=followers)
+  <br>
 ![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=👀👀👀)
