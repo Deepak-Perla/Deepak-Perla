@@ -61,7 +61,7 @@ I am a focused and highly committed individual who strives for greatness in exis
 
 </div>
   
-   
+    
 <table>
   <tr>
    
@@ -75,7 +75,7 @@ I am a focused and highly committed individual who strives for greatness in exis
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Perla&theme=blueberry_duo&hide_border=true&date_format=%5BY.%5Dn.j" alt="Deepak-Perla" /></p>
   </div>
 
- ![xxx--Under Maintainence--xx](https://activity-graph.herokuapp.com/graph?username=Deepak-Perla&date_format=M%20j%5B%2C%20Y%5D&theme=xcode)
+ ![](https://activity-graph.herokuapp.com/graph?username=Deepak-Perla&date_format=M%20j%5B%2C%20Y%5D&theme=xcode)
    
 <img src="https://github-contribution-graph.ez4o.com/?username=Deepak-Perla&last_n_days=150&img_url=https://64.media.tumblr.com/47a108fe9ec36e8c2d7e65727dc1a886/tumblr_o0sinpZfX71v1wfzlo1_500.gifv">   
 
