@@ -1,9 +1,9 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="80"/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
 
 </div>
-<h1 align="center" >Hi, I'm <a href="https://hiredeepak.blogspot.com/" target="_blank"> Deepak Perla </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="28px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://hiredeepak.blogspot.com/" target="_blank"> Deepak Perla </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h1>
 <img width="40%" align="right"   src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
 
 -  ⚙ I’m currently looking for freelancing works or part-time internships.
