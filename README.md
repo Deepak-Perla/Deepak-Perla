@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning DSA & DAA Topics in Java.
 
-- 🤔 Ask me about Web 3.0. Even I will learn with you.
+- 🤔 Ask me about Web 3.0. We'll learn together.
 
 - 👨‍💻 All of my projects are available at [--click me](https://github.com/Deepak-Perla)
 
