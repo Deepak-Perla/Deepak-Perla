@@ -87,6 +87,7 @@ I am a focused and highly committed individual who strives for greatness in exis
   
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="100">
   </div>
+  
   ### Listen with me
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ijfx45ze6577te5m4cyu6fa424&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=false)
   
