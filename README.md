@@ -82,9 +82,9 @@ I am a focused and highly committed individual who strives for greatness in exis
 <img src="https://github-contribution-graph.ez4o.com/?username=Deepak-Perla&last_n_days=150&img_url=https://64.media.tumblr.com/47a108fe9ec36e8c2d7e65727dc1a886/tumblr_o0sinpZfX71v1wfzlo1_500.gifv">   
   
   ### Badges
-  <div>
-  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=15" width="100">
   
+  [![@dexboi69's Holopin board](https://holopin.me/dexboi69)](https://holopin.io/@dexboi69)
+ <div>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="100">
   </div>
   
