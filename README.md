@@ -86,6 +86,8 @@ I am a focused and highly committed individual who strives for greatness in exis
   [![@dexboi69's Holopin board](https://holopin.me/dexboi69)](https://holopin.io/@dexboi69)
  <div>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="100">
+  
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="100">
   </div>
   
   ### Listen with me
