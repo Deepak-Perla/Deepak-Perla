@@ -39,12 +39,12 @@ I am a focused and highly committed individual who strives for greatness in exis
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<!--  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> -->
- <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+ <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<!--  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> -->
 <!--  <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
- <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<!--  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
+<!--  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> -->
 </p>
 
 
@@ -91,7 +91,7 @@ I am a focused and highly committed individual who strives for greatness in exis
   </div>
   
   ### Listen with me
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ijfx45ze6577te5m4cyu6fa424&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=false)
+<!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ijfx45ze6577te5m4cyu6fa424&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=false) -->
   
   
 [![GitHub followers](https://img.shields.io/github/followers/Deepak-Perla.svg?style=social&label=Follow)](https://github.com/Deepak-Perla?tab=followers)
