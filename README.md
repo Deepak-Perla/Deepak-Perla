@@ -10,8 +10,6 @@
 
 -  ⚙ I’m currently looking for freelancing works or part-time internships.
 
-- 🌱 I’m currently learning DSA & DAA Topics in Java.
-
 - 🤔 Ask me about Web 3.0. We'll learn together.
 
 - 👨‍💻 All of my projects are available at [--click me](https://github.com/Deepak-Perla)
