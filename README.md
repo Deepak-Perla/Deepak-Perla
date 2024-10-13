@@ -94,6 +94,6 @@ I am a focused and highly committed individual who strives for greatness in exis
   
 [![GitHub followers](https://img.shields.io/github/followers/Deepak-Perla.svg?style=social&label=Follow)](https://github.com/Deepak-Perla?tab=followers)
   <br>
-![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=👀👀👀)
+![](https://komarev.com/ghpvc/?username=deepak-perla&color=blueviolet&label=Viewers)
 
   
